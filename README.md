@@ -1,2 +1,7 @@
 # pythonsabado5
-Listas, tuplas y diccionarios
+
+-Listas, 
+-tuplas 
+-diccionarios
+
+#Programado por: Adrian Mosquera
